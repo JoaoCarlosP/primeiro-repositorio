@@ -1,0 +1,1 @@
+link do git para download em windows: https://git-scm.com/download/win
